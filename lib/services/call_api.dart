@@ -1,5 +1,4 @@
 import 'package:dio/dio.dart';
-import 'package:flutter/foundation.dart';
 import 'package:suntastic/services/dio_helper.dart';
 
 class RecievedData {
